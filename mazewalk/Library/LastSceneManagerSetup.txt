@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/datafiles/Scenes/mw.unity
+  isLoaded: 1
+  isActive: 1
